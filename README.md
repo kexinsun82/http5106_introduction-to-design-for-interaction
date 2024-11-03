@@ -6,6 +6,10 @@ Students will be introduced to design tools, processes, and best practices as th
 ## Tools & Skills  
 - Figma
 
+## Assignments Repo
+After all assignments are graded, I will change the repository to public.  
+[Assignments Repo](https://github.com/kexinsun82/humber-assignments.git)
+
 ## Outcomes
 - Apply form, function and design interactions using technology and/or tools through product ideation, creation and
 prototyping
